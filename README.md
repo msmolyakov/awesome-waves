@@ -10,6 +10,15 @@
 - [ ] Gateways
 - [ ] Oracles
 - [ ] Ledger supporting
+- [ ] транслятор сети Петри в смарт контракт https://wavescore.slack.com/archives/C46C0LKST/p1545238559150500
+- [ ] Token rating
+- [ ] DEX and matcher
+- [ ] explanations from simple to deeper; Getting started; Ecosystem; Newsletters (Scanate/EthList)
+- [ ] Trading
+- [ ] Leasing pools
+- [ ] ride-examples
+- [ ] JS compiler
+- [ ] projects from incubator
 
 Picture
 
@@ -36,6 +45,8 @@ Legend (icons for abandoned, beta, etc)
 
 ## Introducing to the blockchain
 
+https://www.youtube.com/watch?v=Cfkv8I_XmMY
+
 ## Frameworks and tools
 
 - IDE
@@ -50,10 +61,11 @@ Legend (icons for abandoned, beta, etc)
 - Tradysis games
 - carsharing
 - apiary
-- cannabis on tokens
+- cannabis on tokens https://tokesplatform.org/
 - payd twitter
 - payment widget for WooCommerce (any others?)
 - payd painting on canvas
+- randoms of Tolsi and Deemru
 
 ## Communities and Meetups
 
