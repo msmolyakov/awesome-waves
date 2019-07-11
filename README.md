@@ -17,9 +17,18 @@ Legend (icons for abandoned, beta, etc)
 
 ## Official
 
+- website
+- products
+- repos
+
 ## Introducing to the blockchain
 
 ## Frameworks and tools
+
+- IDE
+- extensions (VS Code, Vim, IntelliJ)
+- testing (surfboard, paddle)
+- docker
 
 ## Articles
 
