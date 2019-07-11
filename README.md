@@ -1,4 +1,5 @@
 translate to README_RU.md
+create CONTRIBUTING.md and LICENSE
 
 Picture
 
