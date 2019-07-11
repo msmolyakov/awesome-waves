@@ -57,6 +57,8 @@ https://www.youtube.com/watch?v=Cfkv8I_XmMY
 
 ## Articles
 
+- article of Ilya (fix typos)
+
 ## Projects built on Waves
 
 - Tradysis games
@@ -67,6 +69,8 @@ https://www.youtube.com/watch?v=Cfkv8I_XmMY
 - payment widget for WooCommerce (any others?)
 - payd painting on canvas
 - randoms of Tolsi and Deemru
+- tokenomica
+- ventuary
 
 ## Communities and Meetups
 
