@@ -9,6 +9,8 @@ badges (same line that header)
 
 short description
 
+_Useful resources for creating dApps with Waves_
+
 Table of Contents | Contents
 
 Legend (icons for abandoned, beta, etc)
@@ -20,6 +22,7 @@ Legend (icons for abandoned, beta, etc)
 - website
 - products
 - repos
+- documentation
 
 ## Introducing to the blockchain
 
