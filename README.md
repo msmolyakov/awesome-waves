@@ -3,10 +3,13 @@
 - [ ] Pull request and Issue templates
 - [ ] Donation
 - [ ] Make public
-- [ ] Gitter, Slack, Discord, Twitter, Medium, Habr, Facebook, Forum
+- [ ] Blog, StackOverflow, Gitter, Slack, Discord, Twitter, Medium, Habr, Facebook, Forum
 - [ ] telegram channels (Tradysis Russia, Jedi)
 - [ ] Stepik course
 - [ ] Youtube workshop
+- [ ] Gateways
+- [ ] Oracles
+- [ ] Ledger supporting
 
 Picture
 
@@ -43,6 +46,14 @@ Legend (icons for abandoned, beta, etc)
 ## Articles
 
 ## Projects built on Waves
+
+- Tradysis games
+- carsharing
+- apiary
+- cannabis on tokens
+- payd twitter
+- payment widget for WooCommerce (any others?)
+- payd painting on canvas
 
 ## Communities and Meetups
 
