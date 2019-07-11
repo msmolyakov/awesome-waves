@@ -1,8 +1,10 @@
+translate to README_RU.md
+
 Picture
 
 # Awesome Waves
 
-badges
+badges (same line that header)
 
 short description
 
