@@ -12,6 +12,8 @@ Legend (icons for abandoned, beta, etc)
 
 ## What is Waves
 
+## Official
+
 ## Introducing to the blockchain
 
 ## Frameworks and tools
@@ -24,11 +26,7 @@ Legend (icons for abandoned, beta, etc)
 
 ### Russia
 
-...
-
 ### Germany
-
-...
 
 ## Other
 
