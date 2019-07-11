@@ -19,6 +19,7 @@
 - [ ] ride-examples
 - [ ] JS compiler
 - [ ] projects from incubator
+- [ ] testnet, customnet
 
 Picture
 
