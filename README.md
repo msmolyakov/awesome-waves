@@ -1,5 +1,9 @@
-translate to README_RU.md
-create CONTRIBUTING.md and LICENSE
+- [ ] translate to README_RU.md
+- [ ] create CONTRIBUTING.md and LICENSE
+- [ ] Pull request and Issue templates
+- [ ] Donation
+- [ ] Make public
+- [ ] Gitter, Slack, Discord, Twitter, Medium, Habr, Facebook, Forum
 
 Picture
 
