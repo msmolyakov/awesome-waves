@@ -28,6 +28,10 @@ Legend (icons for abandoned, beta, etc)
 
 ### Germany
 
+## How to Contribute
+
+If you found some great things, just send a Pull Request with respect to our Contribution Guidelines (they're very simple, please take a look). We use such labels for free :abandoned:, open source :open-sourde: and beta :beta: tools, don't forget to add them. Now I'd love to see your suggestions!
+
 ## Other
 
 * telegram channels (Tradysis Russia, Jedi)
