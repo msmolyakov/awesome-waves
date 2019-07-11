@@ -4,6 +4,9 @@
 - [ ] Donation
 - [ ] Make public
 - [ ] Gitter, Slack, Discord, Twitter, Medium, Habr, Facebook, Forum
+- [ ] telegram channels (Tradysis Russia, Jedi)
+- [ ] Stepik course
+- [ ] Youtube workshop
 
 Picture
 
@@ -53,6 +56,3 @@ If you found some great things, just send a Pull Request with respect to our Con
 
 ## Other
 
-* telegram channels (Tradysis Russia, Jedi)
-* Stepik course
-* Youtube workshop
