@@ -2,32 +2,36 @@ Picture
 
 # Awesome Waves
 
-badges (same line that header)
-
-short description
-
-_Useful resources for creating dApps with Waves_
-
-Table of Contents | Contents
-
-## What is Waves
+Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
 
 ## Official
 
-- website
-- products
-- repos
-- documentation
-
-## Introducing to the blockchain
+- [Official website](https://wavesplatform.com/)
+- [Waves on Github](https://github.com/wavesplatform/)
+- [Documentation](https://docs.wavesplatform.com/)
 
 ## Frameworks and tools
 
-- IDE
-- extensions (VS Code, Vim)
-- testing (surfboard, paddle)
-- docker
-- client libs for languages
+### RIDE programming language
+
+- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE for creating smart contracts in RIDE.
+- [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
+- [vim-ride](VIM plugin) - Vim plugin for RIDE syntax highlighting.
+- [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
+- [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using RIDE.
+
+### Docker images
+
+- [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node.
+- [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer.
+
+### Client libraries
+- [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
+- [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
+- [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library for interacting with the Waves blockchain.
+- [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library for interacting with the Waves blockchain.
+- [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
+- [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
 
 ## Articles
 
