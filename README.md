@@ -27,10 +27,13 @@ Table of Contents | Contents
 - extensions (VS Code, Vim)
 - testing (surfboard, paddle)
 - docker
+- client libs for languages
 
 ## Articles
 
-- article of Ilya (fix typos)
+- article of Ilya (fix typos) en  ru https://habr.com/ru/company/waves/blog/459773/
+- https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8 ru https://habr.com/ru/post/447808/
+- https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d
 
 ## Projects built on Waves
 
@@ -44,6 +47,8 @@ Table of Contents | Contents
 - randoms of Tolsi and Deemru
 - tokenomica
 - ventuary
+- RentApp https://rentapp.io/
+- TokenCraft ? https://medium.com/@TokencraftCH/tokencraft-sees-the-light-an-open-invite-to-test-our-fundraising-technology-178b94dcc592
 
 ## Communities
 
