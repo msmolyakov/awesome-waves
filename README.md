@@ -15,10 +15,10 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ### RIDE programming language
 
 - [Waves IDE](https://ide.wavesplatform.com/) - Online IDE for creating smart contracts in RIDE.
-- [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
-- [vim-ride](VIM plugin) - Vim plugin for RIDE syntax highlighting.
-- [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
 - [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using RIDE.
+- [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
+- [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for RIDE syntax highlighting.
+- [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
 
 ### Docker images
 
@@ -45,9 +45,9 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - carsharing
 - apiary
 - cannabis on tokens https://tokesplatform.org/
-- payd twitter
+- paid twitter
 - payment widget for WooCommerce (any others?)
-- payd painting on canvas
+- paid painting on canvas
 - randoms of Tolsi and Deemru
 - tokenomica
 - ventuary
