@@ -1,3 +1,5 @@
+<p align="center"><img src="/waves_logo.svg" /></p>
+
 # Awesome Waves
 
 Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
