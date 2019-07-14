@@ -1,4 +1,4 @@
-![Logo](/waves_logo.svg)
+<p align="center"><img src="/waves_logo.svg" /></p>
 
 # Awesome Waves
 
