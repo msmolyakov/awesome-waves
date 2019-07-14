@@ -1,3 +1,5 @@
+![Logo](/waves_logo.svg)
+
 # Awesome Waves
 
 Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
