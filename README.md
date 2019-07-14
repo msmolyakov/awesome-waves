@@ -8,6 +8,41 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Waves on Github](https://github.com/wavesplatform/)
 - [Documentation](https://docs.wavesplatform.com/)
 
+## Products
+
+### Wallet
+
+- [Waves Wallet]() - Official web & desktop client enables you to join the ecosystem and enjoy the full range of digital asset management features.
+- [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Official wallet for iPhone.
+- [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Official wallet for Android devices.
+
+### Explorer
+
+- [Waves Explorer](https://wavesexplorer.com) - Official Waves Explorer.
+- [Dev PyWaves](http://dev.pywaves.org) - Explorer by PyWaves.
+- [w8io](https://w8io.ru/) - Blockchain explorer.
+
+### Data service
+
+- [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
+
+### Waves Node
+
+- [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
+
+## Playground
+
+### Testnet
+
+- [Wallet](https://testnet.wavesplatform.com/) - Official testnet wallet.
+- [Explorer](https://wavesexplorer.com/testnet) - Official testnet explorer. It has a [faucet](https://wavesexplorer.com/testnet/faucet) for getting a few free Waves tokens.
+- [Node API](https://testnodes.wavesnodes.com/) - API of testnet nodes.
+
+### Docker images
+
+- [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develope smart contracts and any experiments.
+- [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
+
 ## Frameworks and tools
 
 ### RIDE programming language
@@ -17,11 +52,6 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
 - [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for RIDE syntax highlighting.
 - [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
-
-### Docker images
-
-- [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node.
-- [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer.
 
 ### Client libraries
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
@@ -64,6 +94,6 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 - [Waves / RIDE dev chat RU](https://t.me/tradisys_russia) - Telegram чат для разработчиков dApps.
 
-## How to Contribute
+## How to contribute
 
 If you have found some great things or want to fix something, just send a Pull Request. I'll be glad to your suggestions!
