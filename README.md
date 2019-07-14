@@ -4,6 +4,28 @@
 
 Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
 
+## Contents
+
+- [Official](#official)
+- [Products](#products)
+  - [Wallet](#wallet)
+  - [Explorer](#explorer)
+  - [Other](#other)
+- [Playground](#playground)
+  - [Testnet](#testnet)
+  - [Docker images](#docker-images)
+- [Frameworks and tools](#frameworks-and-tools)
+  - [RIDE programming language](#ride-programming-language)
+  - [Client libraries](#client-libraries)
+- [Articles](#articles)
+- [Built on Waves](#built-on-waves)
+  - [Games](#games)
+  - [Projects](#projects)
+- [Community](#community)
+  - [International](#international)
+  - [Russia](#russia)
+- [How to contribute](#how-to-contribute)
+
 ## Official
 
 - [Official website](https://wavesplatform.com/)
@@ -26,12 +48,9 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ### Other
 
+- [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
-
-### Waves Node
-
-- [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
 
 ## Playground
 
@@ -70,7 +89,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 
-## Projects built on Waves
+## Built on Waves
 
 ### Games
 
@@ -84,7 +103,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 
-## Communities
+## Community
 
 ### International
 
