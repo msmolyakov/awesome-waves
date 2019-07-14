@@ -1,5 +1,3 @@
-Picture
-
 # Awesome Waves
 
 Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
@@ -36,33 +34,36 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ## Articles
 
 - [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
-- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. [ru](https://habr.com/ru/post/447808/)
-- [How to: Waves dApps — Prediction Markets example with RIDE -language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
+- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
+- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 
 ## Projects built on Waves
 
-- Tradysis games
-- carsharing
-- apiary
-- cannabis on tokens https://tokesplatform.org/
-- paid twitter
-- payment widget for WooCommerce (any others?)
-- paid painting on canvas
-- randoms of Tolsi and Deemru
-- tokenomica
-- ventuary
-- RentApp https://rentapp.io/
-- TokenCraft ? https://medium.com/@TokencraftCH/tokencraft-sees-the-light-an-open-invite-to-test-our-fundraising-technology-178b94dcc592
+### Games
+
+- [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
+- [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
+- [Ride On Waves](https://www.waves-rider.io/) - You can choose how many WAVES you want to bet. This is the game with a floating bet from 0.5 and up to 6 WAVES.
+
+### Projects
+
+- [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
+- [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
+- [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 
 ## Communities
 
 ### International
 
+- [Waves Dev Jedi | RIDE for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
+- [Discord](https://t.co/3ryGKhBBAo) - Official Discord.
+- [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
+- [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
+
 ### Russia
+
+- [Waves / RIDE dev chat RU](https://t.me/tradisys_russia) - Telegram чат для разработчиков dApps.
 
 ## How to Contribute
 
-If you found some great things, just send a Pull Request with respect to our Contribution Guidelines (they're very simple, please take a look). Now I'd love to see your suggestions!
-
-## Other
-
+If you have found some great things or want to fix something, just send a Pull Request. I'll be glad to your suggestions!
