@@ -58,7 +58,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 - [Wallet](https://testnet.wavesplatform.com/) - Official testnet wallet.
 - [Explorer](https://wavesexplorer.com/testnet) - Official testnet explorer. It has a [faucet](https://wavesexplorer.com/testnet/faucet) for getting a few free Waves tokens.
-- [Node API](https://testnodes.wavesnodes.com/) - API of testnet nodes.
+- [Node API](https://nodes-testnet.wavesnodes.com/) - API of testnet nodes.
 
 ### Docker images
 
