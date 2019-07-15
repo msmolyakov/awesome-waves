@@ -85,6 +85,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library for interacting with the Waves blockchain.
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library for interacting with the Waves blockchain.
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
+- [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
 - [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - SDK for Mobile Apps on Android, built using Swift.
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS, built using Kotlin.
