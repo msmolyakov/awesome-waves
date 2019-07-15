@@ -107,7 +107,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ### International
 
-- [Waves Dev Jedi | RIDE for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
+- [Waves Dev Jedi. RIDE for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
 - [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
