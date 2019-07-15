@@ -18,6 +18,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
   - [Blockchain utils](#blockchain-utils)
+- [Learn](#learn)
 - [Articles](#articles)
 - [Built on Waves](#built-on-waves)
   - [Games](#games)
@@ -38,6 +39,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ### Wallet
 
 - [Waves Wallet](https://dex.wavesplatform.com/) - Official web & desktop client enables you to join the ecosystem and enjoy the full range of digital asset management features.
+- [Waves Keeper](https://wavesplatform.com/products-keeper) - Official browser extension that allows users to manage their private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
 - [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Official wallet for iPhone.
 - [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Official wallet for Android devices.
 
@@ -91,6 +93,10 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 
+## Learn
+
+- [Mastering Web3 with Waves](https://stepik.org/course/54415/) - The dApps programming online course on Stepik.
+
 ## Articles
 
 - [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
@@ -101,12 +107,11 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ## Built on Waves
 
 ### Games
-- [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac. 
+- [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac.
 - [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
 - [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
 - [Ride On Waves](https://www.waves-rider.io/) - You can choose how many WAVES you want to bet. This is the game with a floating bet from 0.5 and up to 6 WAVES.
 - [Waves Community Lottery](https://bodrych.xyz/wclottery) - Choose as many numbers as you want in the range and make your bet! The game is for up to 100 players.
-- 
 
 ### Projects
 
@@ -120,6 +125,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 - [Waves Dev Jedi. RIDE for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
 - [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
+- [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
