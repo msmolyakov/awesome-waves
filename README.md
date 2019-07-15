@@ -36,7 +36,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ### Wallet
 
-- [Waves Wallet]() - Official web & desktop client enables you to join the ecosystem and enjoy the full range of digital asset management features.
+- [Waves Wallet](https://client.wavesplatform.com/) - Official web & desktop client enables you to join the ecosystem and enjoy the full range of digital asset management features.
 - [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Official wallet for iPhone.
 - [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Official wallet for Android devices.
 
