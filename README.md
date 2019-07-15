@@ -1,4 +1,4 @@
-<p align="center"><img src="logo.svg" width="50%" /></p>
+<p align="center"><img src="logo.svg"/></p>
 
 # Awesome Waves
 
