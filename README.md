@@ -17,6 +17,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Frameworks and tools](#frameworks-and-tools)
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
+  - [Blockchain utils](#blockchain-utils)
 - [Articles](#articles)
 - [Built on Waves](#built-on-waves)
   - [Games](#games)
@@ -49,6 +50,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ### Other
 
 - [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
+- [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
 
@@ -82,20 +84,29 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library for interacting with the Waves blockchain.
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
+- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - SDK for Mobile Apps on Android, built using Swift.
+- [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS, built using Kotlin.
+
+### Blockchain utils
+- [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
+- [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 
 ## Articles
 
 - [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
 - [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
+- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Built on Waves
 
 ### Games
-
+- [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac. 
 - [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
 - [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
 - [Ride On Waves](https://www.waves-rider.io/) - You can choose how many WAVES you want to bet. This is the game with a floating bet from 0.5 and up to 6 WAVES.
+- [Waves Community Lottery](https://bodrych.xyz/wclottery) - Choose as many numbers as you want in the range and make your bet! The game is for up to 100 players.
+- 
 
 ### Projects
 
@@ -111,6 +122,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
+- [StackOverflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
 
 ### Russia
 
