@@ -113,14 +113,14 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
 - [Ride On Waves](https://www.waves-rider.io/) - You can choose how many WAVES you want to bet. This is the game with a floating bet from 0.5 and up to 6 WAVES.
 - [Waves Community Lottery](https://bodrych.xyz/wclottery) - Choose as many numbers as you want in the range and make your bet! The game is for up to 100 players.
-- [Betting exchange](https://dex.bettex.bet/) - Betting exchange, no any bookmaker restrictions, minimal fee and unlimited odds. Be a player or a bookmaker to yourself - that's possible with BETTEX... and fun to play'n'win!!!
-- [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain
 
 ### Projects
 
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
+- [Betting exchange](https://dex.bettex.bet/) - Betting exchange, no any bookmaker restrictions, minimal fee and unlimited odds. Be a player or a bookmaker to yourself - that's possible with BETTEX... and fun to play'n'win!!!
+- [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain
 
 ## Community
 
