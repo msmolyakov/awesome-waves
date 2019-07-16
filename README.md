@@ -119,8 +119,8 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
-- [Betting exchange](https://dex.bettex.bet/) - Betting exchange, no any bookmaker restrictions, minimal fee and unlimited odds. Be a player or a bookmaker to yourself - that's possible with BETTEX... and fun to play'n'win!!!
-- [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain
+- [Betting exchange](https://dex.bettex.bet/) - Betting exchange, no any bookmaker restrictions, minimal fee and unlimited odds. Be a player or a bookmaker to yourself - that's possible with BETTEX... and fun to play'n'win.
+- [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 
 ## Community
 
