@@ -21,6 +21,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Learn](#learn)
 - [Articles](#articles)
 - [Built on Waves](#built-on-waves)
+  - [Catalogs](#catalogs)
   - [Games](#games)
   - [Projects](#projects)
 - [Community](#community)
@@ -106,6 +107,11 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Built on Waves
+
+### Catalogs
+
+- [dAppOcean](https://www.dappocean.io/) - Ecosystem of decentralized applications based on the Waves blockchain.
+- [WavesDapp](https://wavesdapp.com/) - List of games and projects built on Waves.
 
 ### Games
 - [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac.
