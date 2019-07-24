@@ -98,6 +98,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ## Learn
 
+- [RIDE introduction](https://github.com/KardanovIR/ride-introduction) - Shortest and simplest explanation of RIDE.
 - [Mastering Web3 with Waves](https://stepik.org/course/54415/) - The dApps programming online course on Stepik.
 
 ## Articles
