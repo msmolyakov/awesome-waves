@@ -52,9 +52,11 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ### Other
 
+- [WavesLabs](https://waveslabs.com/) - An initiative for supporting talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 - [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
+- [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
 - [WavesCap](https://wavescap.com/) - CoinMarketCap for Waves assets.
 
@@ -65,6 +67,8 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Wallet](https://testnet.wavesplatform.com/) - Official testnet wallet.
 - [Explorer](https://wavesexplorer.com/testnet) - Official testnet explorer. It has a [faucet](https://wavesexplorer.com/testnet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-testnet.wavesnodes.com/) - API of testnet nodes.
+- [DEX API](https://matcher.testnet.wavesnodes.com/) - API of testnet matcher.
+- [Data Service](https://api-test.wavesplatform.com/v0/docs/) - Official data service for testnet.
 
 ### Docker images
 
