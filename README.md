@@ -56,6 +56,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
+- [WavesCap](https://wavescap.com/) - CoinMarketCap for Waves assets.
 
 ## Playground
 
