@@ -14,11 +14,11 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Playground](#playground)
   - [Testnet](#testnet)
   - [Docker images](#docker-images)
+- [Learn](#learn)
 - [Frameworks and tools](#frameworks-and-tools)
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
   - [Blockchain utils](#blockchain-utils)
-- [Learn](#learn)
 - [Articles](#articles)
 - [Built on Waves](#built-on-waves)
   - [Catalogs](#catalogs)
@@ -26,7 +26,11 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [Projects](#projects)
 - [Community](#community)
   - [International](#international)
-  - [Russia](#russia)
+  - [Dutch](#dutch)
+  - [French](#french)
+  - [Portuguese](#portuguese)
+  - [Russian](#russia)
+  - [Spanish](#spanish)
 - [How to contribute](#how-to-contribute)
 
 ## Official
@@ -75,6 +79,16 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develope smart contracts and any experiments.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
 
+## Learn
+
+- [RIDE introduction](https://github.com/KardanovIR/ride-introduction) - Shortest and simplest explanation of RIDE.
+- [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik. Available in other languages:
+  - :de: [Deutsch](https://stepik.org/course/56101)
+  - :netherlands: [Dutch](stepik.org/course/56120) (or materials on [Medium](https://medium.com/leer-web3-0-met-waves))
+  - :fr: [French](stepik.org/course/55963)
+  - :portugal: [Portuguese](https://stepik.org/course/56162)
+  - :es: [Spanish](https://stepik.org/course/56010)
+
 ## Frameworks and tools
 
 ### RIDE programming language
@@ -99,11 +113,6 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ### Blockchain utils
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
-
-## Learn
-
-- [RIDE introduction](https://github.com/KardanovIR/ride-introduction) - Shortest and simplest explanation of RIDE.
-- [Mastering Web3 with Waves](https://stepik.org/course/54415/) - The dApps programming online course on Stepik.
 
 ## Articles
 
@@ -147,9 +156,25 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
 
-### Russia
+### Dutch
 
-- [Waves / RIDE dev chat RU](https://t.me/tradisys_russia) - Telegram чат для разработчиков dApps.
+- [Telegram](https://t.me/wavesdappsnl) - Telegram-chat voor ontwikkelaars dApps.
+
+### French
+
+- [Telegram](https://t.me/wavesdappsFR) - Chat Telegram pour les développeurs dApps.
+
+### Portuguese
+
+- [Telegram](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
+
+### Russian
+
+- [Telegram](https://t.me/tradisys_russia) - Telegram чат для разработчиков dApps.
+
+### Spanish
+
+- [Telegram](https://t.me/wavesdappsES) - Telegram chat para desarrolladores de dApps.
 
 ## How to contribute
 
