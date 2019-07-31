@@ -138,6 +138,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 
 ### Projects
 
+- [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
