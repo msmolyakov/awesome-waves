@@ -29,7 +29,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [Dutch](#dutch)
   - [French](#french)
   - [Portuguese](#portuguese)
-  - [Russian](#russia)
+  - [Russian](#russian)
   - [Spanish](#spanish)
 - [How to contribute](#how-to-contribute)
 
@@ -82,12 +82,10 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 ## Learn
 
 - [RIDE introduction](https://github.com/KardanovIR/ride-introduction) - Shortest and simplest explanation of RIDE.
-- [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik. Available in other languages:
-  - :de: [Deutsch](https://stepik.org/course/56101)
-  - :netherlands: [Dutch](stepik.org/course/56120) (or materials on [Medium](https://medium.com/leer-web3-0-met-waves))
-  - :fr: [French](stepik.org/course/55963)
-  - :portugal: [Portuguese](https://stepik.org/course/56162)
-  - :es: [Spanish](https://stepik.org/course/56010)
+- [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
+Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168),  [Portuguese](https://stepik.org/course/56162), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
+- [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
+Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
 
 ## Frameworks and tools
 
