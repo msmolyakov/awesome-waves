@@ -28,9 +28,13 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [International](#international)
   - [Dutch](#dutch)
   - [French](#french)
+  - [Greek](#greek)
+  - [Hindi](#hindi)
+  - [Japanese](#japanese)
   - [Portuguese](#portuguese)
   - [Russian](#russian)
   - [Spanish](#spanish)
+  - [Turkish](#turkish)
 - [How to contribute](#how-to-contribute)
 
 ## Official
