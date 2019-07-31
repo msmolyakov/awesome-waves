@@ -85,7 +85,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
 Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168),  [Portuguese](https://stepik.org/course/56162), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
 - [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
-Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
+Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
 
 ## Frameworks and tools
 
@@ -163,6 +163,18 @@ Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Du
 
 - [Telegram](https://t.me/wavesdappsFR) - Chat Telegram pour les développeurs dApps.
 
+### Greek
+
+- [Telegram](https://t.me/wavesdappsgr) - Telegram κοινότητα για προγραμματιστές dApps.
+
+### Hindi
+
+- [Telegram](https://t.me/wavesdappsid) - सॉफ्टवेयर डेवलपर्स के लिए टेलीग्राम चैट.
+
+### Japanese
+
+- [Telegram](https://t.me/wavesjapandevs) - dApps開発者のためのTelegramチャット.
+
 ### Portuguese
 
 - [Telegram](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
@@ -174,6 +186,10 @@ Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Du
 ### Spanish
 
 - [Telegram](https://t.me/wavesdappsES) - Telegram chat para desarrolladores de dApps.
+
+### Turkish
+
+- [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
 
 ## How to contribute
 
