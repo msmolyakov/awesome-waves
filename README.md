@@ -100,6 +100,7 @@ Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Du
 - [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
 - [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for RIDE syntax highlighting.
 - [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
+- [Paddle](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
 
 ### Client libraries
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
