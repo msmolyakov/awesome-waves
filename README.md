@@ -112,6 +112,7 @@ Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Du
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
 - [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - SDK for Mobile Apps on Android, built using Kotlin.
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS, built using Swift.
+- [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 
 ### Blockchain utils
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
