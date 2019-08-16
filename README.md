@@ -67,6 +67,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
 - [WavesCap](https://wavescap.com/) - CoinMarketCap for Waves assets.
+- [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody’s in-game items in the form of tokens. ([read more](https://blog.wavesplatform.com/item-market-is-launched-cabefe915c04))
 
 ## Playground
 
