@@ -115,6 +115,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
 - [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
+- [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
 - [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - SDK for Mobile Apps on Android, built using Kotlin.
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS, built using Swift.
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
