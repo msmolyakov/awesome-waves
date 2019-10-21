@@ -155,6 +155,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 - [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 - [Signature Chain](https://www.signature-chain.com/) - Signature Chain’s primary goal is to develop a platform allowing the certification of files and documents.
+- [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies
 
 
 ## Community
@@ -203,6 +204,10 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 ### Turkish
 
 - [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
+
+### Africa
+
+- [Telegram](https://t.me/wavesafrica) - Waves community of passionate developers and web 3.0 enthusiasts across Africa
 
 ## How to contribute
 
