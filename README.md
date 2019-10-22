@@ -4,6 +4,10 @@
 
 Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
 
+## How to contribute
+
+If you have found some great things or want to fix something, feel free to send a Pull Request. I'll be glad your suggestions!
+
 ## Contents
 
 - [Official](#official)
@@ -26,6 +30,7 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [Projects](#projects)
 - [Community](#community)
   - [International](#international)
+  - [Africa](#africa)
   - [Dutch](#dutch)
   - [French](#french)
   - [Greek](#greek)
@@ -35,7 +40,6 @@ Useful resources for creating dApps and other smart contracts with RIDE language
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Turkish](#turkish)
-- [How to contribute](#how-to-contribute)
 
 ## Official
 
@@ -156,7 +160,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 - [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 - [Signature Chain](https://www.signature-chain.com/) - Signature Chain’s primary goal is to develop a platform allowing the certification of files and documents.
-- [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies
+- [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies.
 
 
 ## Community
@@ -169,6 +173,10 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
 - [StackOverflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
+
+### Africa
+
+- [Telegram](https://t.me/wavesafrica) - Waves community of passionate developers and web 3.0 enthusiasts across Africa.
 
 ### Dutch
 
@@ -192,7 +200,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 ### Portuguese
 
-- [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves
+- [Telegram - WavesBrasil](https://t.me/WavesBrasil) - Chat de Telegram para a Comunidade da Waves.
 - [Telegram - Waves Dev Jedi 🇧🇷 🇵🇹](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
 
 ### Russian
@@ -206,11 +214,3 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 ### Turkish
 
 - [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
-
-### Africa
-
-- [Telegram](https://t.me/wavesafrica) - Waves community of passionate developers and web 3.0 enthusiasts across Africa
-
-## How to contribute
-
-If you have found some great things or want to fix something, just send a Pull Request. I'll be glad to your suggestions!
