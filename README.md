@@ -20,11 +20,11 @@ If you have found some great things or want to fix something, feel free to send 
   - [Stagenet](#stagenet)
   - [Docker images](#docker-images)
 - [Learn](#learn)
+- [Articles](#articles)
 - [Frameworks and tools](#frameworks-and-tools)
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
   - [Blockchain utils](#blockchain-utils)
-- [Articles](#articles)
 - [Built on Waves](#built-on-waves)
   - [Catalogs](#catalogs)
   - [Games](#games)
@@ -113,6 +113,13 @@ Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Du
 Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf).\
 Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
 
+## Articles
+
+- [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
+- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
+- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
+- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
+
 ## Frameworks and tools
 
 ### RIDE programming language
@@ -152,13 +159,6 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 - [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
-
-## Articles
-
-- [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
-- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
-- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
-- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Built on Waves
 
