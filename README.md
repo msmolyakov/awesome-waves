@@ -2,7 +2,7 @@
 
 # Awesome Waves
 
-Useful resources for creating dApps and other smart contracts with RIDE language on Waves blockchain.
+Useful resources to create dApps and other smart contracts with RIDE language on Waves blockchain.
 
 ## How to contribute
 
@@ -17,6 +17,7 @@ If you have found some great things or want to fix something, feel free to send 
   - [Other](#other)
 - [Playground](#playground)
   - [Testnet](#testnet)
+  - [Stagenet](#stagenet)
   - [Docker images](#docker-images)
 - [Learn](#learn)
 - [Frameworks and tools](#frameworks-and-tools)
@@ -64,7 +65,7 @@ If you have found some great things or want to fix something, feel free to send 
 
 ### Other
 
-- [WavesLabs](https://waveslabs.com/) - An initiative for supporting talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
+- [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 - [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
@@ -77,11 +78,23 @@ If you have found some great things or want to fix something, feel free to send 
 
 ### Testnet
 
+Testnet is stable network and has fully copied configurations and nodes version from mainnet, but allows to earn free Waves tokens to test something what you need.
+
 - [Wallet](https://testnet.wavesplatform.com/) - Official testnet wallet.
 - [Explorer](https://wavesexplorer.com/testnet) - Official testnet explorer. It has a [faucet](https://wavesexplorer.com/testnet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-testnet.wavesnodes.com/) - API of testnet nodes.
 - [DEX API](https://matcher.testnet.wavesnodes.com/) - API of testnet matcher.
 - [Data Service](https://api-test.wavesplatform.com/v0/docs/) - Official data service for testnet.
+
+### Stagenet
+
+Stagenet is unstable network to test release candidates of the official Waves products before shipping these to the Mainnet and Testnet. But you can also to earn free Waves tokens to test something what you need. For example, a compatibility of your service or DApp with an upcoming releases.
+
+- [Wallet](https://stagenet.wavesplatform.com/) - Official stagenet wallet.
+- [Explorer](https://wavesexplorer.com/stagenet) - Official stagenet explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
+- [Node API](https://nodes-stagenet.wavesnodes.com/) - API of stagenet nodes.
+- [DEX API](https://matcher.stagenet.wavesnodes.com/) - API of stagenet matcher.
+- [Data Service](https://api-stage.wavesplatform.com/v0/docs/) - Official data service for stagenet.
 
 ### Docker images
 
@@ -104,29 +117,41 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 ### RIDE programming language
 
-- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE for creating smart contracts in RIDE.
+- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE to create smart contracts on RIDE.
 - [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using RIDE.
 - [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
 - [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for RIDE syntax highlighting.
-- [surfboard](https://github.com/wavesplatform/Surfboard) - CLI for working with waves RIDE and testing.
+- [surfboard](https://github.com/wavesplatform/Surfboard) - CLI to work with the Ride language and testing.
 - [Paddle](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
 
 ### Client libraries
+#### C/C++
+- [waves-c](https://github.com/wavesplatform/waves-c) - C library to work with Waves.
+- [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
+#### C#
+- [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
+#### Java/Kotlin
+- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - Kotlin SDK for Mobile Apps on Android.
+- [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
+- [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
+#### JavaScript/TypeScript
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
-- [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library for interacting with the Waves blockchain.
-- [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library for interacting with the Waves blockchain.
+#### Go
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
+#### PHP
 - [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
-- [waves-c](https://github.com/wavesplatform/waves-c) - C library for working with Waves.
-- [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
-- [WavesSDK-android](https://github.com/wavesplatform/WavesSDK-android) - SDK for Mobile Apps on Android, built using Kotlin.
-- [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS, built using Swift.
+#### Python
+- [PyWaves](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
+#### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
+#### Swift
+- [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
 ### Blockchain utils
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
+- [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 
 ## Articles
 
