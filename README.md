@@ -56,6 +56,7 @@ If you have found some great things or want to fix something, feel free to send 
 - [Waves Keeper](https://wavesplatform.com/products-keeper) - Official browser extension that allows users to manage their private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
 - [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Official wallet for iPhone.
 - [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Official wallet for Android devices.
+- [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven native desktop wallet for Windows, macOS and Linux, which offers users multi-network and multi-address functionality.
 
 ### Explorer
 
