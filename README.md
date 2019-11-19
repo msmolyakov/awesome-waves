@@ -188,6 +188,10 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [Telegram](https://t.me/wavesjapandevs) - dApps開発者のためのTelegramチャット.
 
+### Philippines
+
+- [Telegram](https://t.me/wavesDevPh) - Telegram Waves Developers Philippines.
+
 ### Portuguese
 
 - [Telegram](https://t.me/joinchat/DtIEA0mI2HvmVbyBBodOew) - Chat de Telegram para desenvolvedores dApps.
