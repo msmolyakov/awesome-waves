@@ -37,6 +37,7 @@ If you have found some great things or want to fix something, feel free to send 
   - [Greek](#greek)
   - [Hindi](#hindi)
   - [Japanese](#japanese)
+  - [Philippine](#philippine)
   - [Portuguese](#portuguese)
   - [Russian](#russian)
   - [Spanish](#spanish)
@@ -224,7 +225,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [Telegram](https://t.me/wavesjapandevs) - dApps開発者のためのTelegramチャット.
 
-### Philippines
+### Philippine
 
 - [Telegram](https://t.me/wavesDevPh) - Telegram Waves Developers Philippines.
 
