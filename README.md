@@ -161,15 +161,18 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 - [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
+- [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
 
 ## Built on Waves
 
 ### Catalogs
 
+- [Waves on DappRadar](https://dappradar.com/rankings/protocol/waves) - Waves dApps published on the DappRadar.
 - [dAppOcean](https://www.dappocean.io/) - Ecosystem of decentralized applications based on the Waves blockchain.
 - [WavesDapp](https://wavesdapp.com/) - List of games and projects built on Waves.
 
 ### Games
+- [NyanCat: The Crypto Race](https://nyancat.io/) - Build your own Nyan Cat collection, race against other players and get your reward in weekly Leaderboards with the prize fund up to $2000!
 - [Shadow Era](http://www.shadowera.com/) - Shadow Era is a free to play online collectible trading card game for iOS, Android, PC and Mac.
 - [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
 - [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
@@ -181,9 +184,9 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
+- [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
-- [Betting exchange](https://dex.bettex.bet/) - Betting exchange, no any bookmaker restrictions, minimal fee and unlimited odds. Be a player or a bookmaker to yourself - that's possible with BETTEX... and fun to play'n'win.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 - [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
 - [Signature Chain](https://www.signature-chain.com/) - Signature Chain’s primary goal is to develop a platform allowing the certification of files and documents.
