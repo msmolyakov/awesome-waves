@@ -25,6 +25,7 @@ If you have found some great things or want to fix something, feel free to send 
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
   - [Blockchain utils](#blockchain-utils)
+  - [Other tools](#other-tools)
 - [Built on Waves](#built-on-waves)
   - [Catalogs](#catalogs)
   - [Games](#games)
@@ -162,6 +163,10 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 - [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 - [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
+
+### Other tools
+- [sh-Ride-brush](https://github.com/msmolyakov/sh-Ride-brush) - SyntaxHighlighter brush for the Ride language.
+- [Ride for Pygments](https://github.com/pygments/pygments/blob/master/pygments/lexers/ride.py) - The [Pygments](https://github.com/pygments/pygments) highlighter oficially supports the Ride out of the box.
 
 ## Built on Waves
 
