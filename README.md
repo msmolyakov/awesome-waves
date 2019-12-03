@@ -187,6 +187,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 ### Projects
 
+- [Neutrino](https://neutrino.at/) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
