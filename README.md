@@ -138,6 +138,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 #### C/C++
 - [waves-c](https://github.com/wavesplatform/waves-c) - C library to work with Waves.
 - [wavespp](https://github.com/wavesplatform/wavespp) - C++ wrapper for the [waves-c](https://github.com/wavesplatform/waves-c) library.
+- [nanos-app-waves](https://github.com/wavesplatform/nanos-app-waves) - Waves wallet application for Ledger Nano S.
 #### C#
 - [WavesCS](https://github.com/wavesplatform/WavesCS) - C# library to interact with the Waves blockchain.
 #### Java/Kotlin
