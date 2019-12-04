@@ -174,7 +174,6 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [Waves on DappRadar](https://dappradar.com/rankings/protocol/waves) - Waves dApps published on the DappRadar.
 - [dAppOcean](https://www.dappocean.io/) - Ecosystem of decentralized applications based on the Waves blockchain.
-- [WavesDapp](https://wavesdapp.com/) - List of games and projects built on Waves.
 
 ### Games
 - [NyanCat: The Crypto Race](https://nyancat.io/) - Build your own Nyan Cat collection, race against other players and get your reward in weekly Leaderboards with the prize fund up to $2000!
@@ -190,6 +189,8 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [Neutrino](https://neutrino.at/) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
+- [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
+- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in RIDE.
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 - [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
