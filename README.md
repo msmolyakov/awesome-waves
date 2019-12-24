@@ -101,6 +101,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Docker images
 
+- [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode) - Docker Image for Waves Platform node. Supports any official or custom networks.
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
 
@@ -160,7 +161,6 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
 ### Blockchain utils
-- [node-docker-image](https://github.com/wavesplatform/node-docker-image) - Docker Image for Waves Platform node. Supports MAINNET, TESTNET and CUSTOM networks.
 - [chaincmp](https://github.com/wavesplatform/gowaves/blob/master/cmd/chaincmp) - Utility to compare blockchains on a different nodes.
 - [Node Tools extension](https://github.com/msmolyakov/waves-node-tools-extension) - Waves Node extension to allow miner to automate payouts for its lessors and to receive notifications about mining progress.
 - [Nodes on map](http://waves-nodes-map.ikardanov.com/) - All nodes of the Waves Mainnet on the world map.
