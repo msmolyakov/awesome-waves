@@ -107,7 +107,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ## Learn
 
-- [RIDE introduction](https://github.com/KardanovIR/ride-introduction) - Shortest and simplest explanation of RIDE.\
+- [RIDE introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of RIDE.\
 Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
 - [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
 Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
