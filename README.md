@@ -54,17 +54,17 @@ If you have found some great things or want to fix something, feel free to send 
 
 ### Wallet
 
-- [Waves Wallet](https://dex.wavesplatform.com/) - Official web & desktop client enables you to join the ecosystem and enjoy the full range of digital asset management features.
-- [Waves Keeper](https://wavesplatform.com/products-keeper) - Official browser extension that allows users to manage their private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
-- [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Official wallet for iPhone.
-- [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Official wallet for Android devices.
+- [Waves.Exchange Wallet](https://waves.exchange/) - Web & desktop client by Waves.Exchange enables you to join the ecosystem and enjoy the full range of digital asset management features.
+- [Waves Keeper](https://wavesplatform.com/products-keeper) - Official browser extension allows to manage private keys and interact securely and seamlessly with Waves-enabled web services and dApps.
+- [iOS wallet](https://itunes.apple.com/us/app/waves-wallet/id1233158971) - Wallet for iPhone by Waves.Exchange.
+- [Android wallet](https://play.google.com/store/apps/details?id=com.wavesplatform.wallet) - Wallet for Android devices by Waves.Exchange.
 - [WavesFX](https://github.com/wavesfx/wavesfx) - A community-driven native desktop wallet for Windows, macOS and Linux, which offers users multi-network and multi-address functionality.
 
 ### Explorer
 
 - [Waves Explorer](https://wavesexplorer.com) - Official Waves Explorer.
-- [Dev PyWaves](http://dev.pywaves.org) - Explorer by PyWaves.
-- [w8io](https://w8io.ru/) - Blockchain explorer.
+- [Dev PyWaves](http://dev.pywaves.org) - Blockchain explorer by PyWaves.
+- [w8io](https://w8io.ru/) - Blockchain explorer by [deemru](https://github.com/deemru).
 
 ### Other
 
@@ -83,20 +83,16 @@ If you have found some great things or want to fix something, feel free to send 
 
 Testnet is stable network and has fully copied configurations and nodes version from mainnet, but allows to earn free Waves tokens to test something what you need.
 
-- [Wallet](https://testnet.wavesplatform.com/) - Official testnet wallet.
 - [Explorer](https://wavesexplorer.com/testnet) - Official testnet explorer. It has a [faucet](https://wavesexplorer.com/testnet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-testnet.wavesnodes.com/) - API of testnet nodes.
-- [DEX API](https://matcher.testnet.wavesnodes.com/) - API of testnet matcher.
 - [Data Service](https://api-test.wavesplatform.com/v0/docs/) - Official data service for testnet.
 
 ### Stagenet
 
 Stagenet is unstable network to test release candidates of the official Waves products before shipping these to the Mainnet and Testnet. But you can also to earn free Waves tokens to test something what you need. For example, a compatibility of your service or DApp with an upcoming releases.
 
-- [Wallet](https://stagenet.wavesplatform.com/) - Official stagenet wallet.
 - [Explorer](https://wavesexplorer.com/stagenet) - Official stagenet explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-stagenet.wavesnodes.com/) - API of stagenet nodes.
-- [DEX API](https://matcher.stagenet.wavesnodes.com/) - API of stagenet matcher.
 - [Data Service](https://api-stage.wavesplatform.com/v0/docs/) - Official data service for stagenet.
 
 ### Docker images
