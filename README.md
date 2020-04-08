@@ -20,7 +20,7 @@ This list is a collection of useful resources to create decentralized applicatio
   - [Stagenet](#stagenet)
   - [Docker images](#docker-images)
 - [Frameworks and tools](#frameworks-and-tools)
-  - [RIDE programming language](#ride-programming-language)
+  - [The Ride programming language](#the-ride-programming-language)
   - [Client libraries](#client-libraries)
   - [Blockchain utils](#blockchain-utils)
   - [Other tools](#other-tools)
@@ -50,21 +50,21 @@ This list is a collection of useful resources to create decentralized applicatio
 
 ## Learn
 
-- [RIDE introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of RIDE.\
+- [Ride introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of Ride.\
 Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
 - [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
 Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
 - [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
 Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://link.medium.com/D6jo2gBtw5), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
-- [RIDE Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important RIDE key points.\
+- [Ride Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important Ride key points.\
 Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
 Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
 
 ## Articles
 
-- [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
-- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
-- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
+- [How to Build, Deploy and Test a Waves Ride dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
+- [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
+- [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 - [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Products
@@ -120,12 +120,12 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ## Frameworks and tools
 
-### RIDE programming language
+### The Ride programming language
 
-- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE to create smart contracts on RIDE.
-- [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using RIDE.
-- [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support RIDE.
-- [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for RIDE syntax highlighting.
+- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE to create smart contracts on Ride.
+- [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using Ride.
+- [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support Ride.
+- [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for Ride syntax highlighting.
 - [surfboard](https://github.com/wavesplatform/Surfboard) - CLI to work with the Ride language and testing.
 - [Paddle](https://github.com/msmolyakov/paddle) - Java library to write tests for your dApps and other smart contracts.
 
@@ -183,7 +183,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
-- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in RIDE.
+- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride.
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
@@ -196,7 +196,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### International
 
-- [Waves Dev Jedi. RIDE for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
+- [Waves Dev Jedi. Ride for dApps](https://t.me/waves_ride_dapps_dev) - Telegram chat for dApps developers.
 - [Discord](https://discordapp.com/invite/cnFmDyA) - Official Discord.
 - [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
