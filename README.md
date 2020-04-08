@@ -1,12 +1,10 @@
-<p align="center"><img src="logo.svg" width="50%"/></p>
+<p align="center"><a href="https://wavesplatform.com/"><img src="logo.svg" width="50%"/></a></p>
 
 # Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Useful resources to create dApps and other smart contracts with RIDE language on Waves blockchain.
-
-## How to contribute
-
-If you have found some great things or want to fix something, feel free to send a Pull Request. I'll be glad your suggestions!
+Waves is an open source blockchain platform and development toolset for Web 3.0 applications and decentralized solutions.
+    
+This list is a collection of useful resources to create decentralized applications on Waves blockchain.
 
 ## Contents
 
@@ -43,6 +41,7 @@ If you have found some great things or want to fix something, feel free to send 
   - [Russian](#russian)
   - [Spanish](#spanish)
   - [Turkish](#turkish)
+- [Contribute](#contribute)
 
 ## Official
 
@@ -252,3 +251,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Turkish
 
 - [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
+
+## Contribute
+
+If you have found some great things or want to fix something, feel free to send a Pull Request. I'll be glad your suggestions!
