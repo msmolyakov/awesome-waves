@@ -1,12 +1,10 @@
-<p align="center"><img src="logo.svg" width="50%"/></p>
+<p align="center"><a href="https://wavesplatform.com/"><img src="logo.svg" width="50%"/></a></p>
 
 # Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-Useful resources to create dApps and other smart contracts with RIDE language on Waves blockchain.
-
-## How to contribute
-
-If you have found some great things or want to fix something, feel free to send a Pull Request. I'll be glad your suggestions!
+Waves is an open source blockchain platform and development toolset for Web 3.0 applications and decentralized solutions.
+    
+This list is a collection of useful resources to create decentralized applications on Waves blockchain.
 
 ## Contents
 
@@ -57,7 +55,7 @@ Available in other languages: [French](https://medium.com/@crashartifacts/introd
 - [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
 Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
 - [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
-Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://medium.com/@s5k/मास्टरिंग-वेब3-0-वेव्स-के-साथ-मॉड्यूल-1-15df353779f4), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
+Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://link.medium.com/D6jo2gBtw5), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
 - [RIDE Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important RIDE key points.\
 Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
 Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
@@ -94,7 +92,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
 - [Token Rating](https://tokenrating.wavesexplorer.com) - Provides a means to rate and aggregate the opinions of the entire Waves community about tokens (projects) issued on the Waves platform.
 - [WavesCap](https://wavescap.com/) - CoinMarketCap for Waves assets.
-- [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody’s in-game items in the form of tokens. ([read more](https://blog.wavesplatform.com/item-market-is-launched-cabefe915c04))
+- [ItemMarket](https://item.market/) - Decentralised platform where everyone can tokenize, sell and buy somebody's in-game items in the form of tokens. ([read more](https://blog.wavesplatform.com/item-market-is-launched-cabefe915c04))
 
 ## Playground
 
@@ -178,8 +176,6 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Coin Flip](https://www.coin-flip.io/) - Choose the coin side, make a bet and see if you are lucky.
 - [Dice Roller](https://www.dice-roller.io/) - Choose the dice sides, make a bet and see if you are lucky.
 - [Ride On Waves](https://www.waves-rider.io/) - You can choose how many WAVES you want to bet. This is the game with a floating bet from 0.5 and up to 6 WAVES.
-- [Waves Community Lottery](https://bodrych.xyz/wclottery) - Choose as many numbers as you want in the range and make your bet! The game is for up to 100 players.
-- [Waves Sea Battle](https://wavesseabattle.io/) - PvP Sea Battle Game.
 
 ### Projects
 
@@ -189,11 +185,10 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
 - [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in RIDE.
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
-- [BeeHive](https://www.beehivetoken.io/) - The first decentralized Beekeeping Platform which simplifies and standardizes apiaries data with blockchain technology.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
 - [One Million Pixel Waves](https://www.onemillionpixelwaves.com/) - Smart Contract powered website entirely running on the Waves blockchain where anyone can own a piece of the blockchain and immortalize it with an image and a link.
-- [Signature Chain](https://www.signature-chain.com/) - Signature Chain’s primary goal is to develop a platform allowing the certification of files and documents.
+- [Signature Chain](https://www.signature-chain.com/) - Signature Chain's primary goal is to develop a platform allowing the certification of files and documents.
 - [Auctionlance Platform](https://beta.auctionlance.com) - Freelancer marketplace where clients hire and pay freelancers with Waves, Waves tokens and other cryptocurrencies.
 
 
@@ -206,7 +201,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Waves Community Portal](https://wavescommunity.com/) - Official portal features some of the tools and projects that make up Waves ecosystem.
 - [Waves Community Forum](https://forum.wavesplatform.com/) - Official forum.
 - [Support](https://support.wavesplatform.com/) - Official knowledge base and support.
-- [StackOverflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/wavesplatform) - The best place to ask your tech questions. Use tags `wavesplatform` and `ride`.
 
 ### Africa
 
@@ -230,7 +225,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### Japanese
 
-- [Telegram](https://t.me/wavesjapandevs) - dApps開発者のためのTelegramチャット.
+- [Telegram](https://t.me/wavesjapandevs) - DApps開発者のためのTelegramチャット.
 
 ### Philippine
 
@@ -252,3 +247,11 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Turkish
 
 - [Telegram](https://t.me/wavesdappstu) - Yazılım geliştiriciler için Telegram sohbet.
+
+## Contribute
+
+Contributions welcome!
+
+If you have found some great things or want to fix something, feel free to send a Pull Request. Read the [contribution guidelines](CONTRIBUTING.md) first.
+
+I'll be glad your suggestions!
