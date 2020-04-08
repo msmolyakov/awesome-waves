@@ -1,6 +1,6 @@
 <p align="center"><img src="logo.svg" width="50%"/></p>
 
-# Awesome Waves
+# Awesome Waves [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 Useful resources to create dApps and other smart contracts with RIDE language on Waves blockchain.
 
@@ -11,6 +11,8 @@ If you have found some great things or want to fix something, feel free to send 
 ## Contents
 
 - [Official](#official)
+- [Learn](#learn)
+- [Articles](#articles)
 - [Products](#products)
   - [Wallet](#wallet)
   - [Explorer](#explorer)
@@ -19,8 +21,6 @@ If you have found some great things or want to fix something, feel free to send 
   - [Testnet](#testnet)
   - [Stagenet](#stagenet)
   - [Docker images](#docker-images)
-- [Learn](#learn)
-- [Articles](#articles)
 - [Frameworks and tools](#frameworks-and-tools)
   - [RIDE programming language](#ride-programming-language)
   - [Client libraries](#client-libraries)
@@ -47,8 +47,27 @@ If you have found some great things or want to fix something, feel free to send 
 ## Official
 
 - [Official website](https://wavesplatform.com/)
-- [Waves on Github](https://github.com/wavesplatform/)
+- [Waves on GitHub](https://github.com/wavesplatform/)
 - [Documentation](https://docs.wavesplatform.com/)
+
+## Learn
+
+- [RIDE introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of RIDE.\
+Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
+- [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
+Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
+- [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
+Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://medium.com/@s5k/मास्टरिंग-वेब3-0-वेव्स-के-साथ-मॉड्यूल-1-15df353779f4), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
+- [RIDE Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important RIDE key points.\
+Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
+Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
+
+## Articles
+
+- [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
+- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
+- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
+- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Products
 
@@ -69,7 +88,7 @@ If you have found some great things or want to fix something, feel free to send 
 ### Other
 
 - [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
-- [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on Github.
+- [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on GitHub.
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
@@ -100,25 +119,6 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode) - Docker Image for Waves Platform node. Supports any official or custom networks.
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
-
-## Learn
-
-- [RIDE introduction](https://github.com/wavesplatform/ride-introduction) - Shortest and simplest explanation of RIDE.\
-Available in other languages: [French](https://medium.com/@crashartifacts/introduction-%C3%A0-ride-ad6c413f98ee).
-- [Mastering Web3 with Waves](https://stepik.org/course/54415) - The dApps programming online course on Stepik.\
-Available in other languages: [Deutsch](https://stepik.org/course/56101), [Dutch](stepik.org/course/56120), [French](stepik.org/course/55963), [Greek](https://stepik.org/course/56168), [Hindi](https://stepik.org/course/56024), [Japanese](stepik.org/course/56157), [Portuguese](https://stepik.org/course/56162), [Russian](https://stepik.org/course/56401), [Spanish](https://stepik.org/course/56010), [Turkish](https://stepik.org/course/56131).
-- [Mastering Web3 with Waves (on Medium)](https://medium.com/mastering-web3-with-waves) - All materials of the Stepik course as articles on Medium.\
-Available in other languages: [Deutcsh](https://medium.com/web3withwavesde), [Dutch](https://medium.com/leer-web3-0-met-waves), [French](https://medium.com/ma%C3%AEtriser-le-web-3-0-avec-waves), [Hindi](https://medium.com/@s5k/मास्टरिंग-वेब3-0-वेव्स-के-साथ-मॉड्यूल-1-15df353779f4), [Portuguese](https://medium.com/dominando-web-3-0-com-waves), [Spanish](https://medium.com/dominando-web3-0-con-waves).
-- [RIDE Cheat Sheet PNG](https://www.signature-chain.com/web3-pdf/cheat-sheet.png) - Quick overview of important RIDE key points.\
-Available in other format: [PDF](https://www.signature-chain.com/web3-pdf/cheat-sheet.pdf) - [PSD](https://www.signature-chain.com/web3-pdf/cheat-sheet.psd) ([Font](https://fonts.google.com/specimen/Open+Sans)).\
-Available in other languages: [PNG French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.png) - [PDF French](https://www.signature-chain.com/web3-pdf/cheat-sheet_FR.pdf).
-
-## Articles
-
-- [How to Build, Deploy and Test a Waves RIDE dApp](https://blog.wavesplatform.com/how-to-build-deploy-and-test-a-waves-ride-dapp-785311f58c2) - How to write simple decentralized appication(dApp) and run it on Waves node. ([ru](https://habr.com/ru/company/waves/blog/459773/))
-- [How to: Waves dApps — DAO. Example using RIDE-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
-- [How to: Waves dApps — Prediction Markets example with RIDE-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
-- [Simple voting on the Waves blockchain](https://docs.wavesplatform.com/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
 
 ## Frameworks and tools
 
