@@ -108,9 +108,9 @@ Testnet is stable network and has fully copied configurations and nodes version 
 
 Stagenet is unstable network to test release candidates of the official Waves products before shipping these to the Mainnet and Testnet. But you can also to earn free Waves tokens to test something what you need. For example, a compatibility of your service or DApp with an upcoming releases.
 
-- [Explorer](https://wavesexplorer.com/stagenet) - Official stagenet explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
-- [Node API](https://nodes-stagenet.wavesnodes.com/) - API of stagenet nodes.
-- [Data Service](https://api-stage.wavesplatform.com/v0/docs/) - Official data service for stagenet.
+- [Explorer](https://wavesexplorer.com/stagenet) - Official explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
+- [Node API](https://nodes-stagenet.wavesnodes.com/) - Swagger REST API of Waves Node.
+- [IDE](https://ide-stagenet.wavesplatform.com) - Online IDE to create Ride smart contracts on Stagenet.
 
 ### Docker images
 
