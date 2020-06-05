@@ -74,6 +74,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be) - Calling a smart contract, users experience some issues, which hampers mass adoption of blockchain. An instrument called Blockchain Trigger could help resolve these issues ([ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
 - [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) - How can we avoid the most common mistakes when developing dApps for Web 3.0 ([ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
 - [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18) - How can we resolve the issue of supplying real-world data to the blockchain? Introducing Oraculus - a smart contract for creating decentralized oracles ([ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
+- [Billy — motivation bot for Slack and Microsoft Teams](https://medium.com/@ikardanov/billy-motivation-and-recognition-bot-for-slack-and-microsoft-teams-d05167e4a7f9) - A tool built on the Waves blockchain to reward team members in a non-financial way ([ru](https://vc.ru/tribuna/128472-billy-bot-dlya-motivacii-personala)).
 
 ## Products
 
@@ -188,6 +189,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Projects
 
 - [Neutrino](https://github.com/ventuary-lab/neutrino-contract) - An algorithmic price-stable cryptocurrency protocol collateralized by WAVES token.
+- [Billy](https://iambilly.app) - A motivation tool for teams. Billy offers a product to create an atmosphere of cooperation, focus the company on the core values, and incentivize sharing by creating an in-team economy.
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
