@@ -152,6 +152,8 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 #### JavaScript/TypeScript
 - [Waves Signer](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web)).
 - [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
+- [pay-crypto-widget](https://github.com/vlzhr/pay-crypto-widget) - JS widget for accepting crypto payments on your website.
+- [crypto-donate](https://github.com/vlzhr/crypto-donate) - HTML widget allowing to donate Waves tokens to content authors.
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
 #### Go
@@ -195,7 +197,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Ventuary-DAO](https://alpha.ventuary.space/) - Sandbox dedicated to filtering dApp ideas and stimulating the Waves community to take part in Web 3.0 adoption.
 - [Tokenomica](https://tokenomica.com/) - Security Tokens Issuance Platform. Create and trade digital assets with ease and confidence.
 - [LIGA](https://ligatokens.io/) - A platform with tokenized sport events, enabling you to deal with real-time rates and to trade your personal predictions with others.
-- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride.
+- [WaveFlow](https://waveflow.xyz/) - Allows you to create new or use existing exchangers that provide a constant supply and demand for certain traded pairs. Algorithmic pricing is used to ensure consistency of supply and demand - the more popular the token is, the higher its price is set. Each exchanger is a dApp written in Ride ([example of trading bot](https://github.com/vlzhr/waveflow-trading-bot)).
 - [Lombardini](https://lombardini.io/) - Borrow WBTC for WAVES instantly.
 - [Blockchain Cars](http://blockchaincars.io/) - Transport as a Service.
 - [WavesAffi](https://github.com/bettexproject/WavesAffi) - Decentralized affiliate program on Waves blockchain.
