@@ -45,6 +45,7 @@ This list is a collection of useful resources to create decentralized applicatio
 ## Official
 
 - [Official website](https://wavesprotocol.org/)
+- [Blog on Medium](https://medium.com/wavesprotocol)
 - [Waves on GitHub](https://github.com/wavesplatform/)
 - [Documentation](https://docs.wavesprotocol.org/)
 
@@ -66,6 +67,13 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 - [How to: Waves dApps — DAO. Example using Ride-language for smart contracts](https://medium.com/@alexpupyshev/how-to-waves-dapps-dao-example-using-ride-language-for-smart-contracts-3b0ca55e48a8) - How to create the simple DAO dApp for voting and collective investing in projects. ([ru](https://habr.com/ru/post/447808/))
 - [How to: Waves dApps — Prediction Markets example with Ride-language. Part 1](https://medium.com/@alexpupyshev/how-to-waves-dapps-prediction-markets-example-with-ride-language-part-1-27b642f2fd0d) - How to create the simple Prediction Market dApp (like Augur or Gnosis) to create new markets, trade shares and win if the prediction will come true.
 - [Simple voting on the Waves blockchain](https://docs.wavesprotocol.org/en/smart-contracts/simple-voting-on-the-waves-blockchain.html) - The head of the HOA (homeowners association) asks the tenants of the building: "Dear residents, do you agree with the construction of the kids' playground in the yard of your building?". Objective: implement such voting among tenants on the Waves blockchain.
+- [How to use Waves Signer](https://medium.com/@izhur27/getting-started-with-waves-signer-893017c9b7ae) - How to authorize and sign transactions on your website.
+- [Certificado, Part 1. How to build your first blockchain-based app in 15 minutes](https://medium.com/wavesprotocol/how-to-build-your-first-blockchain-based-app-in-15-minutes-83de36826143) - Tutorial on how to create blockchain-based certificate storage ([ru](https://vk.com/@wavesplatform-kak-sozdat-pervoe-prilozhenie-na-blokcheine-za-15-minut)).
+- [Certificado, Part 2. What are Smart Contracts and how to use them in your app](https://medium.com/wavesprotocol/what-are-smart-contracts-and-how-to-use-them-in-your-app-a1c0d62d1a5) - Tutorial on how to create blockchain-based certificate storage ([ru](https://vk.com/@wavesplatform-chto-takoe-smart-kontrakty-i-kak-ih-ispolzovat-v-prilozhenii)).
+- [How to: offer a free trial for your dApp](https://medium.com/wavesprotocol/make-your-dapp-free-for-a-user-d560b38ec598) - Detailed guide to lowering the barrier for users of a dApp ([ru](https://vk.com/@wavesplatform-how-to-besplatnye-dlya-polzovatelya-decentralizovannye-prilo)).
+- [Blockchain Trigger: a tool for automatic smart contract invocation](https://medium.com/wavesprotocol/blockchain-trigger-a-tool-for-automatic-smart-contract-invocation-1cb2748c53be) - Calling a smart contract, users experience some issues, which hampers mass adoption of blockchain. An instrument called Blockchain Trigger could help resolve these issues ([ru](https://vk.com/@wavesprotocol-instrument-dlya-dlya-avtomaticheskogo-vyzova-smart-kontrakto)).
+- [How to avoid common mistakes in dApp development](https://medium.com/wavesprotocol/how-to-avoid-common-mistakes-in-dapp-development-61015e700459) - How can we avoid the most common mistakes when developing dApps for Web 3.0 ([ru](https://vk.com/@wavesprotocol-kak-izbezhat-oshibok-pri-razrabotke-dapp)).
+- [How to write decentralized oracles in Ride](https://medium.com/wavesprotocol/how-to-write-decentralized-oracles-in-ride-f2c096812b18) - How can we resolve the issue of supplying real-world data to the blockchain? Introducing Oraculus - a smart contract for creating decentralized oracles ([ru](https://vk.com/@wavesprotocol-kak-napisat-decentralizovannyi-orakul-na-ride)).
 
 ## Products
 
