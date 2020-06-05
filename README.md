@@ -231,6 +231,9 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### French
 
 - [Telegram](https://t.me/wavesdappsFR) - Chat Telegram pour les développeurs dApps.
+- [Dev France on Youtube](https://www.youtube.com/channel/UC2DS9ktTKWGW3NHHV2Ja3_A) - Une chaîne dédiée à l'apprentissage du développement d'applications décentralisées (dApp) sur la Blockchain Waves.
+- [Dev France on Facebook](https://www.facebook.com/wavesfr)
+- [Dev France on Twitter](https://twitter.com/WavesDevFr)
 
 ### Greek
 
