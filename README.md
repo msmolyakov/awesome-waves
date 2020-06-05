@@ -164,6 +164,8 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [WavesKit](https://github.com/deemru/WavesKit) - All-in-one Waves Platform development kit for the PHP language.
 #### Python
 - [PyWaves](https://github.com/PyWaves/PyWaves) - Object-oriented library for the Waves blockchain platform.
+- [ERC20 Gateway Framework](https://github.com/PyWaves/Waves-ERC20-Gateway) - Allows to easily establish a gateway between any ERC-20 token and the Waves blockchain ([example](https://github.com/iammortimer/TN-WAVES-Gateway)).
+- [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 #### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
 #### Swift
