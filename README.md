@@ -152,6 +152,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 #### JavaScript/TypeScript
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
+- [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
 #### Go
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
 #### PHP
