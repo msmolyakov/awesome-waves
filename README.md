@@ -124,6 +124,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 ### Docker images
 
 - [WavesNode](https://hub.docker.com/r/wavesplatform/wavesnode) - Docker Image for Waves Platform node. Supports any official or custom networks.
+- [K8s by loxal](https://hub.docker.com/r/loxal/waves-node) - The container was built in order to run as a fire-and-forget `StatefulSet` in a Kubernetes cluster.
 - [waves-private-node](https://hub.docker.com/r/wavesplatform/waves-private-node) - Private local Waves Node. The easiest way to run your own isolated node to develop smart contracts and any experiments.
 - [explorer](https://hub.docker.com/r/wavesplatform/explorer) - Waves Explorer for your node.
 
