@@ -150,9 +150,10 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [WavesJ](https://github.com/wavesplatform/WavesJ) - Java library to interact with the Waves blockchain and DEX.
 - [waves-crypto-java](https://github.com/msmolyakov/waves-crypto-java) - Library to work with cryptographic primitives used in the Waves blockchain.
 #### JavaScript/TypeScript
+- [Waves Signer](https://github.com/wavesplatform/signer) - library to interact with the Waves blockchain from your web app ([example provider](https://github.com/waves-exchange/provider-web)).
+- [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
 - [waves-transactions](https://github.com/wavesplatform/waves-transactions) - JS library to build and sign transactions.
 - [ts-lib-crypto](https://github.com/wavesplatform/ts-lib-crypto) - Typescript implementations like signature verification and protocol entries used in Waves protocol.
-- [vue-waves-signer](https://github.com/opensolutionsweb3/vue-waves-signer) - Waves Signer implementation for Vue.js.
 #### Go
 - [go-lib-crypto](https://github.com/wavesplatform/go-lib-crypto) - GoLang implementation of the unified crypto primitives for Waves.
 #### PHP
