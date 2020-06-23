@@ -121,7 +121,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 - [Explorer](https://wavesexplorer.com/stagenet) - Official explorer. It has a [faucet](https://wavesexplorer.com/stagenet/faucet) for getting a few free Waves tokens.
 - [Node API](https://nodes-stagenet.wavesnodes.com/) - Swagger REST API of Waves Node.
-- [IDE](https://ide-stagenet.wavesplatform.com) - Online IDE to create Ride smart contracts on Stagenet.
+- [IDE](https://stagenet.waves-ide.com) - Online IDE to create Ride smart contracts on Stagenet.
 
 ### Docker images
 
@@ -134,7 +134,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 
 ### The Ride programming language
 
-- [Waves IDE](https://ide.wavesplatform.com/) - Online IDE to create smart contracts on Ride.
+- [Waves IDE](https://waves-ide.com/) - Online IDE to create smart contracts on Ride.
 - [ride-examples](https://github.com/wavesplatform/ride-examples) - Examples of scripts for accounts and assets using Ride.
 - [waves-ride](https://marketplace.visualstudio.com/items?itemName=wavesplatform.waves-ride) - Visual Studio Code extension to support Ride.
 - [vim-ride](https://github.com/rosmanov/vim-ride) - Vim plugin for Ride syntax highlighting.
