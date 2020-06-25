@@ -98,6 +98,7 @@ Available in other languages: [PNG French](https://www.signature-chain.com/web3-
 
 - [WavesLabs](https://waveslabs.com/) - An initiative to support talented developers and promising startups focused on building the decentralised technologies that will form the backbone to Web 3.0.
 - [Node](https://github.com/wavesplatform/Waves) - Waves Node repository on GitHub.
+- [GRPC Server](https://grpc.wavesnodes.com:6870) - Public GRPC interface for Mainnet.
 - [Go Node](https://github.com/wavesplatform/gowaves) - Go libraries and tools for Waves blockchain, alternative implementation of Node (work in progress).
 - [Waves Data Service](https://api.wavesplatform.com/v0/docs/#/) - Official data service. Simple and convenient way to get data from Waves blockchain.
 - [Waves Oracles](https://oracles.wavesexplorer.com/) - Catalog of Oracles.
