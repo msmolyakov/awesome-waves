@@ -171,7 +171,7 @@ Stagenet is unstable network to test release candidates of the official Waves pr
 - [Waves-Gateway-Framework](https://github.com/jansenmarc/WavesGatewayFramework) - A framework to connect other cryptocurrencies to the Waves blockchain ([LTC example](https://github.com/jansenmarc/WavesGatewayLTCExample)).
 #### Rust
 - [WavesRS](https://github.com/petermz/WavesRs) - A Rust interface for the Waves blockchain.
-- [waves-lib-rust](https://github.com/waves-rust/waves-lib-rust) - A Rust library for the Waves blockchain.
+- [waves-lib-rust](https://github.com/waves-rust/waves-lib-rust) - Library to work with Waves blockchain.
 #### Swift
 - [WavesSDK-iOS](https://github.com/wavesplatform/WavesSDK-iOS) - SDK for Mobile Apps on iOS.
 
